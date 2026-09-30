@@ -4,4 +4,7 @@ test.sh
 nvim
 
 spell/
-lazy-lock.json
+.scratch/
+.tokensave/
+.claude/
+.DS_Store
